@@ -24,10 +24,11 @@ github_username:  johnmarquess
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: BDHU/minimalist
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme
 
 
 # Exclude from processing.
